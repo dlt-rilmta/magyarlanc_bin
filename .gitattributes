@@ -1,0 +1,2 @@
+szeged.dep.model filter=lfs diff=lfs merge=lfs -text
+magyarlanc-2.0.1.jar filter=lfs diff=lfs merge=lfs -text
