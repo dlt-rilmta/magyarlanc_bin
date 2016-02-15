@@ -1,6 +1,6 @@
 # magyarlanc_bin
 
-Magyarlánc binary files required by hunlp-GATE.
+Magyarlánc 2.0.1 binary files required by hunlp-GATE.
 
 See https://github.com/dlt-rilmta/hunlp-GATE/blob/master/Lang_Hungarian/resources/magyarlanc/README.md for more information.
 
